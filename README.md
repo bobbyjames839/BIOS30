@@ -9,7 +9,11 @@ Please note that the kernal has to be restarded every time the test is run.
 
 
 Improvements from V1 -
+
 More commenting in my code files
+
 Provide more details to users on their data-usage
+
 Store some of the google form functions in another file and then import
+
 Include docstrings
