@@ -4,6 +4,8 @@ This test is designed to test the memory of the user. There are 3 different leve
 
 The test score is calculated based on the speed and accuracy of the user. Once the user has completed the test, their score is compared to others through my Firebase database.
 
+Please note that the kernal has to be restarded every time the test is run.
+
 
 
 Improvements from V1 -
